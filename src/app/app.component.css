@@ -1,0 +1,16 @@
+.bg-info {
+  background: #17a2b8!important;
+
+}
+.img {
+  vertical-align: middle;
+  border-style: none;
+}
+.navbar {
+
+  padding: .7rem 1rem;
+}
+li{
+  text-align: -webkit-match-parent;
+
+}

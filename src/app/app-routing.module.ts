@@ -5,7 +5,7 @@ import {CinemaComponent} from './cinema/cinema.component';
 
 const routes: Routes = [
   {
-    path:"cinema",
+    path:"Home",
     component: CinemaComponent
   }
 ];
